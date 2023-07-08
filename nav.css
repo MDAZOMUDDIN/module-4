@@ -1,0 +1,11 @@
+nav>ul>li{
+    display: inline;
+    width: 5px;
+}
+nav>ul>li>a{
+    text-decoration: none;
+}
+li :hover{
+    background-color: aqua;
+
+}
